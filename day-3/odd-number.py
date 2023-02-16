@@ -1,4 +1,4 @@
-num = 101
+num = 100
 
 if num % 2 == 0:
   print('The number is odd.')
